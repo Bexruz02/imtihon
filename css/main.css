@@ -1,0 +1,180 @@
+*{
+    text-decoration: none;
+}
+
+
+.header{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    gap: 30px;
+    margin-top: 30px;
+    margin-left: 205px;
+}
+
+.header-title{
+    color: white;
+}
+
+a{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #666666;
+}
+
+.button-title{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.push{
+    width: 172px;
+    height: 40px;
+    background: #222222;
+    border-radius: 4px;
+}
+
+.main-logo{
+    margin-top: 200px;
+    margin-left: 214px;
+}
+
+
+.title-main{
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 59px; 
+    color: #222222;
+    padding-top: 24px;
+    margin-left: 214px;
+}
+
+.description_main{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #222222;
+    margin-left: 214px;
+}
+
+
+.push_second{
+    background: #222222;
+    border-radius: 4px;
+    margin-left: 219px;
+    width: 148px;
+    height: 40px;
+}
+
+
+.button_title{
+    color: white;
+}
+
+.push_third{
+    background: #222222;
+    border-radius: 4px;
+    height: 40px;
+    width: 145px;
+}
+
+.buttontitle_third{
+    color: white;
+}
+
+.coffee{
+    margin-top: -495px;
+    margin-left: 880px;
+}
+
+.section{
+    height: 316px;
+    width: 1440px;
+    background-color: #FF5437;
+}
+{
+    ;
+}
+
+.first{
+    display: inline;
+    margin-top: 80px;
+    margin-left: ;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.second{
+    display: inline;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.third{
+    display: inline;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.title_third{
+    margin-left: 214px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #222222;
+}
+
+.description_thirds{
+    margin-left: 214px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;    
+    color: #666666;
+}
+
+.device{
+    margin-top: -328px;
+    margin-left: 960px;
+}
+
+.drink{
+    margin-left: 236px;
+}
+
+.title_just{
+    margin-left: 806px;
+    margin-top: -423px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #222222;
+}
+
+.description_just{
+    margin-left: 806px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #666666;
+}
+
+.container{
+width: 1440px;
+height: 997px;
+color: white;
+}
